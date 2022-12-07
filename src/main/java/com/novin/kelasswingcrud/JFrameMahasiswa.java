@@ -100,6 +100,7 @@ public class JFrameMahasiswa extends javax.swing.JFrame {
 
         jPanel4.setBorder(javax.swing.BorderFactory.createEtchedBorder());
 
+        jLabel1.setBackground(new java.awt.Color(153, 153, 153));
         jLabel1.setText("Nim");
 
         jLabel2.setText("Name");
